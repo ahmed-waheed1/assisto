@@ -10,7 +10,7 @@ A beautiful and modern Flutter application showcasing a developer profile with s
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/user-attachments/assets/demo.gif
 
 > **📹 Watch the full demonstration** showcasing all features including staggered animations, custom page transitions, and dynamic theme switching between light and dark modes.
 
